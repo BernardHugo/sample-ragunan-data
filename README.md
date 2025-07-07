@@ -1,3 +1,3 @@
 # sample-ragunan-data
 
-A sample of images and ground truth masks of Ragunan areas. 
+Samples of images and ground truth masks in the Ragunan areas. 
